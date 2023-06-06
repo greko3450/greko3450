@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greko3450" alt="greko3450" /></a> </p>
 
-- <h3>👨‍💻 Mi proyecto grupal PF:</h3> https://pf-front-eegvakue1-22-00.vercel.app/
+-👨‍💻 Mi proyecto grupal PF: <a href="https://pf-front-eegvakue1-22-00.vercel.app/" style="color: blue; font-weight: bold;">Pastelería</a>
+
 
 
 - <h3>💬 Acerca de mí:</h3> <h4>**Mi experiencia como desarrollador full-stack, incluyendo el aprendizaje de estas tecnologías durante mi trayectoria, me ha permitido adquirir sólidos conocimientos en programación sin contar con una base previa. Estoy entusiasmado por enfrentar nuevos desafíos y continuar aprendiendo en cada paso del camino. Tengo un firme deseo de crecer profesionalmente, siempre en busca de oportunidades para aprender y aportar valor en cualquier entorno en el que me encuentre. Me esfuerzo no solo por sobresalir en el ámbito académico y laboral, sino también por crecer como individuo.**</h4>
