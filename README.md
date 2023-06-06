@@ -1,3 +1,5 @@
+<a href="#"><img width="100%" height="auto" src="https://media.licdn.com/dms/image/D4E16AQF7RyjYyxHAIg/profile-displaybackgroundimage-shrink_350_1400/0/1686002973457?e=1691625600&v=beta&t=oc5jPCCSsTTZKt9kq9DA_4EPS4iDxHA2gPYlythRqSg" height="45px"/></a>
+
 <h1 align="center">Hi 👋, I'm Johann Suasnabar</h1>
 <h3 align="center">Apasionado desarrollador full-stack dedicado a la programación.</h3>
 
