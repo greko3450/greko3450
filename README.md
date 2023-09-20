@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://media.licdn.com/dms/image/D4E16AQF7RyjYyxHAIg/profile-displaybackgroundimage-shrink_350_1400/0/1686002973457?e=1691625600&v=beta&t=oc5jPCCSsTTZKt9kq9DA_4EPS4iDxHA2gPYlythRqSg" height="45px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.licdn.com/dms/image/D4E16AQF7RyjYyxHAIg/profile-displaybackgroundimage-shrink_350_1400/0/1686002975265?e=1700697600&v=beta&t=DLEeUYvadjBiQaJ_jWjAcGAI_YWB2MxPNazeH_h5n2g" height="45px"/></a>
 
 <h1 align="center">Hola 👋, soy Johann Suasnabar</h1>
 <h3 align="center">Apasionado desarrollador full-stack dedicado a la programación.</h3>
